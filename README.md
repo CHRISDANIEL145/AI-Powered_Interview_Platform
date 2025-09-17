@@ -7,7 +7,6 @@ backend/.env
       /requirements.txt
 
 
-AI-Powered Interview Platform (IntervuAI Pro):
 IntervuAI Pro is a sophisticated, end-to-end web application designed to automate and enhance the technical interview process using state-of-the-art AI. The platform streamlines the entire workflow, from initial resume screening to generating a final, comprehensive candidate assessment.
 
 By leveraging the high-speed Groq AI cloud, the application provides real-time, intelligent analysis, helping hiring managers make faster, more informed, and less biased decisions.
